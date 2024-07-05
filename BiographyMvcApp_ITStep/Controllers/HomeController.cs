@@ -15,12 +15,12 @@ namespace BiographyMvcApp_ITStep.Controllers
             return View();
         }
 
-        public IActionResult Paintings()
+        public IActionResult Biography()
         {
             return View();
         }
 
-        public IActionResult Discoveries()
+        public IActionResult Creations()
         {
             return View();
         }
